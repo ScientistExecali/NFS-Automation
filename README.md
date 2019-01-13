@@ -10,6 +10,6 @@ Setup an HTTP server on your network
 2.Open the following link on your browser
         http://localhost/nfs.html
   Make sure that the system used is the HTTP server on your network. If not, use the following URL:
-        http://<IP address of HTTP server>/nfs.html
+        http://IP address of HTTP server/nfs.html
 
 3.Now, enter the server and client IP addresses for the NFS server and client after entering the setup you would like. A new home folder should be created automatically in a few minutes.
